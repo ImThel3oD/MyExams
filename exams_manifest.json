@@ -1,0 +1,14 @@
+[
+    {
+        "title": "בלוטות הרוק 11",
+        "file": "exams/salivary_glands.json"
+    },
+    {
+        "title": "מפרק הלסת ושרירי הלעיסה מתוקן",
+        "file": "exams/jaw_muscles.json"
+    },
+    {
+        "title": "הלוע הנכוןןן",
+        "file": "exams/pharynx.json"
+    }
+]
